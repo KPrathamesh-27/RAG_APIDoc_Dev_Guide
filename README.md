@@ -2,9 +2,11 @@
 
 Key components:
 
-APIDocCrawler: Recursively crawls API documentation using LangChain's RecursiveUrlLoader
-RAGStore: Manages vector embeddings using HuggingFace models and Chroma vector store
-APIIntegration: Main interface for the RAG system
+* APIDocCrawler: Recursively crawls API documentation using LangChain's RecursiveUrlLoader
+
+* RAGStore: Manages vector embeddings using HuggingFace models and Chroma vector store
+
+* APIIntegration: Main interface for the RAG system
 
 To use:
 
